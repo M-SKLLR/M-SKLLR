@@ -1,5 +1,5 @@
 - 👋 Hi, I' M-SKLLR
-- 👀 I’m interested in full stack development + data science
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning java + dsa
 - 💞️ I’m looking to collaborate on an intership
 - 📫 To reach me u can dm @urs_lovingly_swarnim (instagram)
